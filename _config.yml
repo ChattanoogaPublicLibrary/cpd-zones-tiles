@@ -1,0 +1,9 @@
+# Site settings
+title: CPD Zones Tiles
+description: > # this means to ignore newlines until "baseurl:"
+  Maptiles with regions representing the CPD zones.
+url: "http://chattanoogapubliclibrary.github.io/cpd-zones-tiles" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
