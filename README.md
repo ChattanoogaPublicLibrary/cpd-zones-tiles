@@ -37,8 +37,11 @@ Follow the instructions for building osm-bright. Add `CPDZones.geojson` from thi
 ## License
 
 Map data © OpenStreetMap contributors, CC-BY-SA
+
 Zone data © City of Chattanooga
+
 Imagery © Mapbox
+
 Code for this repository is under MIT License. See LICENSE for more details.
 
 ## Disclaimer
